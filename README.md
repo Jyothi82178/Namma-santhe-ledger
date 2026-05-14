@@ -123,7 +123,7 @@ MIT License
 
 ## 👨‍💻 Author
 
-Developed by Arshid Ahmad Malik
+Developed by Jyothishree D
 
 ---
 
